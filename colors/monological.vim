@@ -24,7 +24,7 @@ hi NonText term=bold cterm=bold ctermfg=4 gui=bold guifg=Blue
 hi Directory term=bold ctermfg=4 guifg=Blue
 hi ErrorMsg term=standout cterm=bold ctermfg=7 ctermbg=1 gui=bold guifg=White guibg=Red
 hi IncSearch term=reverse cterm=reverse gui=reverse
-hi Search term=reverse ctermbg=3 guibg=PeachPuff
+hi Search term=reverse ctermbg=5 ctermfg=7* guibg=PeachPuff
 hi MoreMsg term=bold ctermfg=2 gui=bold guifg=SeaGreen
 hi ModeMsg term=bold cterm=bold gui=bold
 hi LineNr term=underline ctermfg=3 guifg=Red3
